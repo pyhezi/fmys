@@ -45,8 +45,6 @@
 
 {"key":"小苹果","name":"小苹果专线","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Yht","name":"农民专用","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
-
 {"key":"csp_Voflix","name":"农民VIP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1}
 
 ],
