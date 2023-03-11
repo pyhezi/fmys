@@ -1,5 +1,5 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;336E4EF13D2D0FD8328DC68F01AE2684",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CABCF3F4F6046D7FBC7A6983827038F5",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
@@ -84,6 +84,10 @@
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}  
+	}, {
+		"name": "懒懒",
+		"type": 1,
+		"url": "http://lanlan.ckflv.cn/?url="
 	}, {
 		"name": "bozrc",
 		"type": 0,
