@@ -24,7 +24,7 @@
 
 {
             "key": "csp_Paper",
-            "name": "📜小纸条",
+            "name": "4K云播",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -36,7 +36,7 @@
 
 {
             "key": "YiSo",
-            "name": " 🔎阿里易搜(搜索)",
+            "name": "4K云播",
             "type": "3",
             "api": "csp_YiSo",
             "searchable": "1",
@@ -48,7 +48,7 @@
 
  {
             "key": "AliPS",
-            "name": " 📀阿里盘搜(搜索)",
+            "name": "4K云播",
             "type": "3",
             "api": "csp_PanSou",
             "searchable": "1",
