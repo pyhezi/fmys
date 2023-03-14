@@ -11,24 +11,17 @@
 
 	"sites":[
 
-{
-            "key": "js豆瓣1",
-            "name": "4K云播",
-            "type": 3,
-            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext": "http://id.ganggang.live:63/js/js_drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+{"key":"js豆瓣","name":"4K云播","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},		
 
-{"key":"js豆瓣","name":"🅱豆瓣┃饭推荐首页","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},		
+{"key":"YiSo","name":"4K云播","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
-{"key":"YiSo","name":"4K云播","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"PanSou","name":"4K云播","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
-{"key":"PanSou","name":"4K云播","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"UpYun","name":"4K云播","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
-{"key":"UpYun","name":"4K云播","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"}
+{"key":"csp_Paper","name":"4K云播","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+
+{"key":"Zhaozy","name":"4K云播","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"}
 
  ],
 
