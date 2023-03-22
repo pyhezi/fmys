@@ -1,13 +1,27 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+
+
+
+
+"spider":"http://我不是.肥猫.love:63/Jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580",
+
+"lives":[
+
+
+    
+{
+      "name": "live",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },    
+    {"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]
+    }],
 
 	"sites":[
 {"key":"js豆瓣","name":"4K云播","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
