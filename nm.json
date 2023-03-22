@@ -1,17 +1,10 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	         },
-	         {
-		    "name": "Json",
-		    "type": 1,
-		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
@@ -41,6 +34,8 @@
 {"key":"csp_AppMr","name":"明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"小苹果","name":"小苹果专线","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"PanSou","name":"4K盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 
 {"key":"csp_Voflix","name":"农民VIP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1}
 
