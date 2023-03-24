@@ -3,7 +3,7 @@
 
 
 
-"spider":"http://我不是.肥猫.love:63/Jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580",
+"spider":"https://jihulab.com/ygbh1/box/-/raw/main/JAR/spider.jar;md5;AF94CC4D3C30F6CEE8B8B20E7B70A0BC",
 
 "lives":[
 
@@ -26,12 +26,11 @@
 	"sites":[
 {"key":"js豆瓣","name":"4K云播","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"csp_Paper","name":"4K云播","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php"},
- {"key":"csp_search_Yisou","name":"4K云播","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php"},
-
-{"key":"csp_search_Zhaozy","name":"4K云播","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php$$$yingshi$$$abcd1234"},
-{"key":"csp_search_Upyunso","name":"4K云播","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php"},
-{"key":"csp_search_Alips","name":"4K云播","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php"}
+{"key":"Gitcafe","name":"4K云播","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"06207ec245604787b799f807a588c0db","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan.jar"},
+    {"key":"Upso","name":"4K云播","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"06207ec245604787b799f807a588c0db","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan.jar"},
+    {"key":"Zhaozy","name":"4K云播","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"06207ec245604787b799f807a588c0db$$$yingshi$$$abcd1234","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan.jar"},
+    {"key":"YiSo","name":"4K云播","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"06207ec245604787b799f807a588c0db","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan.jar"},
+    {"key":"AliPS","name":"4K云播","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"06207ec245604787b799f807a588c0db","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan.jar"}
  ],
 
 
@@ -274,5 +273,4 @@
 ]}
 ],
 "wallpaper":"https://picsum.photos/1080/","warningText":"月光宝盒完全免费，切勿付费购买。",
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-}
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
