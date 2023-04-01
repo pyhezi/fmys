@@ -18,7 +18,7 @@
 
 {"key":"csp_AppMr","name":"明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"PanSou","name":"4K盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"AliPS","name":"4K盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/token/token.txt"},
 
 {"key":"csp_Voflix","name":"农民VIP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1}
 
