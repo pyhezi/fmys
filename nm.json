@@ -27,6 +27,8 @@
 
 {"key":"csp_WoGG","name":"阿里云盘扫码观看","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 
+{"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/rebozj.json"},
+
 {"key":"csp_AppMr","name":"明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1}
 
 
