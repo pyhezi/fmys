@@ -9,9 +9,7 @@
 
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-
-{"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
