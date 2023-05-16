@@ -3,7 +3,7 @@
 [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 "sites":[
 
-{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
+{"key":"Tutu_spider","name":"猫影视TV","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
 
 {"key":"HDMOLI","name":"HDMOLI","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
