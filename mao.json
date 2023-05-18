@@ -9,8 +9,6 @@
 
 {"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 
-{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"蓝光电影","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1},
