@@ -12,7 +12,7 @@
 
 {"key":"多米蓝光","name":"农民蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
-{"key":"drpy_js_孜然影视","name":"农民HD","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/孜然影视.js"},
+{"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/rebozj.json"},
 
 {"key":"BuLei","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
 
