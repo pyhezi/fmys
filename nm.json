@@ -35,7 +35,7 @@
 
 {"key":"Dovx","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
 
-{"key":"土狗","name":"土狗┃4K","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"}
+{"key":"土狗","name":"土狗┃4K","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
 
 ],
