@@ -35,7 +35,7 @@
 
 {"key":"Dovx","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
 
-{"key": "阿里云盘网","name":"云盘┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
 
 {"key":"土狗","name":"土狗┃4K","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
