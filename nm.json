@@ -27,8 +27,6 @@
 
 {"key":"布雷蓝光","name":"布雷影视","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weixine.net/sub/bulei.json"},
 
-{"key":"真不卡","name":"农民不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/zhenbuka.json"},
-
 {"key":"热播之家","name":"农民热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
 
 {"key":"HDmoli","name":"农民高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
