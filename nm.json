@@ -29,7 +29,7 @@
 
 {"key":"热播之家","name":"农民热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
 
-{"key":"HDmoli","name":"农民高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
+{"key":"HDmoli","name":"农民高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/HDmoli.json"},
 
 {"key":"纸条","name": "纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
