@@ -31,6 +31,8 @@
 
 {"key":"热播之家","name":"农民热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
 
+{"key": "csp_AppMr","name": "👻┃明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"纸条","name": "纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 {"key":"Dovx","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
