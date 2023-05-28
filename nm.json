@@ -34,7 +34,7 @@
 
 {"key":"布雷蓝光","name":"布雷影视","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weixine.net/sub/bulei.json"},
 
-{"key":"纸条","name": "纸条┃4K","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
+{"key": "玩偶哥哥","name":"💧玩偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/wanou.json"},
 
 {"key":"Dovx","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
