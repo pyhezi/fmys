@@ -13,7 +13,7 @@
 
 {"key":"js豆瓣","name":"4K云播","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"https://gitee.com/yedeting/tvboxlivesdiy/blob/master/Alyp_jar.jar"},
+{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./Alyp_jar.jar"},
 
 
 {"key": "csp_阿里七夜","name": "阿里 ┃ 七夜[4K]","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"}
