@@ -36,7 +36,7 @@
 
 {"key":"热播之家","name":"农民热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
 
-{"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
+{"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/caigou.js"},
 
 {"key":"Dovx","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
