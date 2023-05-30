@@ -49,6 +49,8 @@
 
 {"key":"drpy_js_酷客影院","name":"酷客 [影视]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
 
+{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
+
 {"key":"爱看影院","name":"🤡爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/aikan.json"},
 
 {"key":"七夜","name":"🌞七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
