@@ -1,5 +1,6 @@
 {
-	"spider": "https://jihulab.com/xiaohutx/box/-/tree/main//jar/0529.jar;md5;92ed6ef3d74105e2cd7e4fec5784aac2",
+	"spider":"./jar/0529.jar;md5;92ed6ef3d74105e2cd7e4fec5784aac2",
+
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
