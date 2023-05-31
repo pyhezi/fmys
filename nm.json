@@ -56,8 +56,6 @@
 
 {"key":"看看剧","name":"农民热播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/看看剧.json"},
 
-{"key":"drpy_js_皮皮鸭","name":"影视 | 皮皮鸭[js]","type":3,"api":"http://rihou.cc:66//%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91/drpy2.min.js","ext":"http://rihou.cc:66/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91/js/%E7%9A%AE%E7%9A%AE%E9%B8%AD.js"},
-
 {"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
 
 {"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
