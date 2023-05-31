@@ -42,7 +42,7 @@
 
 {"key":"爱迪","name":"农民┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"素白白","name":"农民备用","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/jbb.js"},
+{"key":"素白白","name":"农民备用","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/%e7%99%bd%e7%99%bd.js"},
 
 {"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
