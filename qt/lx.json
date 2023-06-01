@@ -34,7 +34,7 @@
 	"ext": "https://cf.weixine.net/js/douban.js"
     },
 
-{"key":"HDmoli","name":"ÀÖÏí×ÔÓª","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/moli.json"},
+{"key":"HDmoli","name":"ÀÖÏí×ÔÓª","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
 
 {"key":"´ÅÁ¦ĞÜ","name":"ÀÖÏí©§4K","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
 
@@ -112,7 +112,7 @@
 {"name": "·Ç·²V¸æ","hosts": ["vip.ffzy","hd.ffzy"],
 "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 
-{"name": "»ğÉ½ĞáÌ½","hosts": ["huoshan.com"],
+{"name": "»ğ&#65533;ĞáÌ½","hosts": ["huoshan.com"],
 "regex": ["item_id="]},
 
 {"name": "¶¶ÒôĞáÌ½","hosts": ["douyin.com"],
