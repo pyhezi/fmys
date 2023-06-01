@@ -21,6 +21,9 @@
 	"filterable": 0,
 	"ext": "https://cf.weixine.net/js/douban.js"
     },
+
+{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rul2oe7c4.bkt.clouddn.com/sub/bulei.json"},
+
     {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥",
