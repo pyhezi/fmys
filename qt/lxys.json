@@ -81,16 +81,7 @@
       "changeable": 0,
       "ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"
     },
-    {
-      "key": "盘搜",
-      "name": "🖥盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"
-    },
+   
     {
       "key": "网盘搜索",
       "name": "🖥网盘搜索",
