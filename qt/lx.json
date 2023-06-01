@@ -1,0 +1,47 @@
+{
+    "urls": [
+           
+{
+            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/nm.json",
+            "name": "农民影视MAX〔多条线路〕"
+        },
+
+{
+            "url": "http://饭太硬.ga/tv",
+            "name": "饭太硬线路"
+        },
+
+{
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "name": "月光宝盒"
+        },
+
+{
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风线路"
+        },
+
+{
+            "url": "https://yydsys.top/duo",
+            "name": "应用多多家庭版"
+        },
+
+{
+            "url": "https://agit.ai/leevi/apps/raw/branch/main/xpg.json",
+            "name": "小苹果线路"
+        },
+
+{
+            "url": "https://yydsys.top/duo/lm.json",
+            "name": "龙门线路"
+        }                        
+        
+
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
