@@ -1302,7 +1302,7 @@
             "searchable": 0,
             "quickSearch": 0
         }
-    ]
+    ],
     
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
