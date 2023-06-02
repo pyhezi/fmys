@@ -26,7 +26,7 @@
 
 {"key":"多米蓝光","name":"🍎备份源一","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
-{"key":"酷影","name":"🍎备份源二","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
+{"key":"drpy_js_饭团电影","name":"🍎备份源二","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/饭团影视.js"},
 
 {"key":"js七七","name":"🍎备份源三","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 
