@@ -1,7 +1,7 @@
 {
 "sites":[
 
-{"key":"csp_apple","name":"🍎主力源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"apple","name":"🍎主力源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
