@@ -197,8 +197,6 @@
 {"key":"drpy_js_我爱电影","name":"影视 | 我爱电影[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/我爱电影网.js"},
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/我爱跟剧.js"},
 {"key":"drpy_js_溪谷影视","name":"影视 | 溪谷影视[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/溪谷影视.js"},
-{"key":"drpy_js_小白菜儿","name":"影视 | 小白菜儿[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/小白菜电影.js"},
-{"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/星辰.js"},
 {"key":"drpy_js_伊人追剧","name":"影视 | 伊人追剧[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/伊人追剧.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/子子影视.js"}
 ],
