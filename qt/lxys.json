@@ -40,6 +40,8 @@
 
 {"key":"多米","name":"花漾┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
+{"key":"速度","name":"花漾┃自建","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E9%80%9F%E5%BA%A6.json"},
+
 {"key":"看看剧","name":"花漾┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
 
 {"key":"皮皮鸭","name":"花漾┃推荐","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/皮皮鸭.js"},
