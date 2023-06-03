@@ -40,6 +40,8 @@
 
 {"key":"多米","name":"花漾┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
+{"key":"酷影","name":"花漾┃VIP","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
+
 {"key":"看看剧","name":"花漾┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
 
 {"key":"皮皮鸭","name":"花漾┃推荐","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/皮皮鸭.js"},
@@ -56,6 +58,8 @@
 
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name":"花漾┃4K","type":1,"url":"http://json.key521.cn/api/?key=545dcd754879dc02a6087dd1d47e38d0&url="},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
