@@ -23,16 +23,7 @@
 
 "sites":[
 
-{
-	"key": "豆瓣",
-	"name": "花漾盒子",
-	"type": 3,
-	"api": "https://cf.weixine.net/js/lib/drpy2.min.js",
-	"searchable": 0,
-	"quickSearch": 0,
-	"filterable": 0,
-	"ext": "https://cf.weixine.net/js/douban.js"
-    },
+{"key":"豆瓣","name":"花漾盒子","type":3,"api":"https://jihulab.com/blank7355005/box/-/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/js/douban.js"},
 
 {"key":"HDmoli","name":"花漾┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
 
