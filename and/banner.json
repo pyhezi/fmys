@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "尘封十三载",
+      "pic": "https://p2.cri.cn/M00/65/E9/rBABC2Mi2NCABq8UAAAAAAAAAAA709.628x419.jpg",
+      "url": "",
+      "type": "search",     
+      "desc": "人民网评：悬疑的《尘封十三载》，讲好了刑警的日常。",
+      "show": true
+    },
+      {
+      "name": "满江红",
+      "pic": "http://admin92.bookdao.com/UploadFile/Article/2023/2-6/5a549da6-f5a5-438f-a6c2-f7794477aae9.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "电视剧《他是谁》主演：张译，陈雨锶，丁勇岱等演员。",
+      "show": true
+    },
+    {
+      "name": "在线音乐",
+      "pic": "https://n.sinaimg.cn/sinakd20211128s/200/w1080h720/20211128/2447-51ad484529844bb4c774eaf02b573679.jpg",
+      "url": "http://music.iztyy.com/",
+      "type": "web",     
+       "desc": "在线听音乐",
+      "show": true
+    }
+  ]
+}
