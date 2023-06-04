@@ -24,11 +24,11 @@
 
 {"key":"csp_SP360","name":"🥎360影视官方","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 
-{"key":"多米蓝光","name":"🍎备份源一","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+{"key":"多米","name":"🍎备份源一","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
-{"key":"drpy_js_花猫TV","name":"🍎备份源二","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/花猫TV.js"},
+{"key":"磁力熊","name":"🍎备份源二","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"js七七","name":"🍎备份源三","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"热播","name":"🍎备份源三","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.json"},
 
 {"key":"Kuaikan","name":"🍎备份源四","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
