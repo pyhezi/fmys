@@ -17,6 +17,25 @@
       "type": "web",     
       "desc": "手机买贵退钱 不是正品退货",
       "show": true
-    }
+    },
+
+{
+      "name": "龙马精神",
+      "pic": "https://img1.doubanio.com/view/photo/m/public/p2887208400.webp",
+      "url": "",
+      "type": "true",     
+       "desc": "龙叔新作带给您不一样的精彩",
+      "show": true
+    },
+
+{
+      "name": "满江红",
+      "pic": "https://img1.doubanio.com/view/photo/m/public/p2886822288.webp",
+      "url": "",
+      "type": "true",     
+       "desc": "演员： 沈腾 / 易烊千玺 / 张译 / 雷佳音 / 岳云鹏等",
+      "show": true
+    }    
+
   ]
 }
