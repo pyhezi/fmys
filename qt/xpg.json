@@ -30,15 +30,15 @@
 
 {"key":"热播","name":"🍎备份源三","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.json"},
 
-{"key":"Kuaikan","name":"🍎备份源四","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"速度","name":"🍎备份源四","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E9%80%9F%E5%BA%A6.json"},
 
-{"key":"drpy_js_奇优影院","name":"🍎备份源五","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/奇优影院.js"},
+{"key":"爱看","name":"🍎备份源五","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%88%B1%E7%9C%8B%E5%BD%B1%E9%99%A2.json"},
 
-{"key":"drpy_js_慢大浪","name":"🍎备份源六","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/慢大浪.js"},
+{"key":"布雷","name":"🍎备份源六","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy04.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
-{"key":"YQK_spider","name":"🍎备份源七","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://hk-api-cf.yqk5659.com"},
+{"key":"七七","name":"🍎备份源七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"drpy_js_HDmoli","name":"🍎备份源八","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/HDmoli.js"},
+{"key":"wz","name":"🍎备份源八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/wz.json"},
 
 
 {
