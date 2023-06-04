@@ -17,15 +17,6 @@
       "type": "web",     
       "desc": "手机买贵退钱 不是正品退货",
       "show": true
-    },
-
-    {
-      "name": "在线音乐",
-      "pic": "https://n.sinaimg.cn/sinakd20211128s/200/w1080h720/20211128/2447-51ad484529844bb4c774eaf02b573679.jpg",
-      "url": "http://music.iztyy.com/",
-      "type": "web",     
-       "desc": "在线听音乐",
-      "show": true
     }
   ]
 }
