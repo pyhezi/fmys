@@ -25,11 +25,11 @@
 
 {"key":"豆瓣","name":"花漾影视","type":3,"api":"https://jihulab.com/blank7355005/box/-/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/js/douban.js"},
 
-{"key":"HDmoli","name":"🌸花漾┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
-
 {"key":"七七","name":"🌸花漾┃高清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"HDmoli","name":"🌸花漾┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
 
 {"key":"熊熊","name":"🌸花漾┃4K","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/磁力熊.json"},
 
