@@ -24,7 +24,7 @@
 
 {"key":"快看","name":"🥎360影视官方","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
-{"key":"多米","name":"🍎备份源一","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
+{"key":"七七","name":"🍎备份源一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"磁力熊","name":"🍎备份源二","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
@@ -51,7 +51,7 @@
 
 {"key":"布雷","name":"🍎备份源六","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy04.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
-{"key":"七七","name":"🍎备份源七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"多米","name":"🍎备份源七","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
 {"key":"wz","name":"🍎备份源八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/wz.json"},
 
