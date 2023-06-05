@@ -25,21 +25,25 @@
 
 {"key":"豆瓣","name":"花漾盒子","type":3,"api":"https://jihulab.com/blank7355005/box/-/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/js/douban.js"},
 
-{"key":"HDmoli","name":"花漾┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
+{"key":"HDmoli","name":"🌸花漾┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/lxzy.json"},
 
-{"key":"熊熊","name":"花漾┃4K","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/磁力熊.json"},
+{"key":"七七","name":"🌸花漾┃高清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"多米","name":"花漾┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+{"key":"apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"看看剧","name":"花漾┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
+{"key":"熊熊","name":"🌸花漾┃4K","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/磁力熊.json"},
 
-{"key":"爱迪","name":"花漾┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"多米","name":"🌸花漾┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
-{"key":"酷影","name":"花漾┃推荐","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
+{"key":"看看剧","name":"🌸花漾┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
 
-{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
+{"key":"爱迪","name":"🌸花漾┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
+{"key":"酷影","name":"🌸花漾┃推荐","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
+
+{"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
+
+{"key":"七夜","name":"🌐七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
 ],
 
