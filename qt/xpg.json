@@ -22,7 +22,7 @@
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-{"key":"360","name":"🥎360影视官方","type":3,"api":"https://jihulab.com/blank7355005/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/blank7355005/box/-/raw/main/js/360.js"},
+{"key":"快看","name":"🥎360影视官方","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"多米","name":"🍎备份源一","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
