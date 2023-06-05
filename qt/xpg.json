@@ -668,7 +668,7 @@
 
 {"key":"drpy_js_啦啦DJ","name":"🎤啦啦DJ","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/苹果DJ.js","playerType":"2"},
 {"key":"drpy_js_清风DJ","name":"🎤清风DJ","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/清风DJ.js","playerType":"2"},
-{"key":"drpy_js_种子音乐","name":"🎤种子音乐","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/种子音乐.js"},
+
 {"key":"drpy_js_蜻蜓FM","name":"🌑蜻蜓FM","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/蜻蜓FM.js","playerType":"2"},
 {"key":"drpy_js_相声随身听","name":"💯相声随身听","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/相声随身听.js","playerType":"2"},
 {"key":"drpy_js_i275听书","name":"🌏i275听书","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/i275听书.js","playerType":"2"},
