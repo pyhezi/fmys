@@ -22,7 +22,7 @@
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-{"key":"快看","name":"🥎360影视官方","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
+{"key": "Kuaikan","name": "🥎360影视官方","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"七七","name":"🍎备份源一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -55,6 +55,7 @@
 
 {"key":"wz","name":"🍎备份源八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/wz.json"},
 
+{"key":"快看","name":"🈷️月光快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {
             "key": "csp_Yj1211",
@@ -172,7 +173,7 @@
         "其他片"
       ]
     },
-{"key": "Kuaikan","name": "🈷️快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+
  {
       "key": "csp_Smdyy",
       "name": "🐴神马影视",
@@ -568,7 +569,7 @@
 
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0"},
 {"key":"天堂资源","name":"📌天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
+
 
 {
       "key":"csp_XYQBiu_短视频",
