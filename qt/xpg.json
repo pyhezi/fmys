@@ -22,7 +22,8 @@
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-{"key": "Kuaikan","name": "🥎360影视官方","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"快看","name":"🥎360影视官方","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
+
 
 {"key":"七七","name":"🍎备份源一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -55,7 +56,6 @@
 
 {"key":"wz","name":"🍎备份源八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/wz.json"},
 
-{"key":"快看","name":"🈷️月光快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {
             "key": "csp_Yj1211",
@@ -87,6 +87,8 @@
         },
 
 {"key":"初语","name":"💬初语","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
+
+{"key":"轻简","name":"✂️简简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
         {
             "key": "量子资源",
