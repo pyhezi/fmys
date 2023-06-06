@@ -39,11 +39,7 @@
 
 {"key":"爱迪","name":"🌸花漾┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"酷影","name":"🌸花漾┃推荐","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
-
-{"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
-
-{"key":"七夜","name":"🌐七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
+{"key":"酷影","name":"🌸花漾┃推荐","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"}
 
 ],
 
