@@ -16,8 +16,8 @@
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-{"key":"电影盒子","name":"🥎360影视官方","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/dianyinghezi.json"},
 
+{"key":"LIBVIO","name":"🥎360影视官方","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 
 {"key":"七七","name":"🍎备份源一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
