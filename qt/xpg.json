@@ -89,7 +89,7 @@
 
 {"key":"轻简","name":"✂️简简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
-{"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/LIBVIO.json"},
+
 {"key":"看看剧","name":"💧看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/kankanju.json"},
 {"key":"23TV","name":"💧23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"大豆高清","name":"💧大豆高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/dadou.json"},
