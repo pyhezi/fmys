@@ -848,7 +848,10 @@
 
 ],
     
-"parses": [{
+"parses": [
+    
+    {"name":"解析聚合","type":3,"url":"Demo"},
+    {
 		"name": "爱奇艺",
 		"type": 0,
 		"url": "https://jx.zhanlangbu.com/?url="
