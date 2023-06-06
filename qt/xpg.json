@@ -1,10 +1,16 @@
+
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+	"spider": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar;md5;6550d6e1889b869d84bf9176f2e2300d",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 
-
-
-"sites":[
+		"sites":[
 
 {"key":"apple","name":"🍎主力源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
