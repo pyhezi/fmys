@@ -1,20 +1,8 @@
 {
-//jar
-"spider": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar;md5;6550d6e1889b869d84bf9176f2e2300d",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
-
-//壁纸
-"wallpaper":"https://tool.weetai.cn/api",
-
-
-//直播	
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],   
+	"sites":[
 
 "sites":[
 
