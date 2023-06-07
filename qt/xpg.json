@@ -16,7 +16,7 @@
 
 {"key":"js豆瓣","name":"🍀┃豆瓣精选","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-{"key":"搜狗","name":"🥎360影视官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
+{"key":"搜狗","name":"🥎360影视官方","type":3,"api":"https://jihulab.com/blank7355005/hy/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/blank7355005/hy/-/raw/main/js/sougou.js"},
 
 {"key":"七七","name":"🍎备份源一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
