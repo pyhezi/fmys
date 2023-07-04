@@ -125,8 +125,6 @@
 
 {"name": "解析4","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
-{"name":"全能解析","type":0,"url":"https://jx.legendwhb.cn/llq/?url=","ext":{"flag":["qq","qiyi","mgtv","imgo","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
-
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
 {"name":"嗅探2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
@@ -147,7 +145,7 @@
 
 
 
-"spider":"https://gitee.com/xhkw/hy/raw/main/jar/5.jar;md5;a682ace8b8e6e03e9c9451674e6701b7",
+"spider":"https://gitee.com/xhkw/hy/raw/main/jar/07.jar;md5;c2780aac62a56e33e95e583bcab6a790",
 
 
 "wallpaper":"https://tool.weetai.cn/api",
