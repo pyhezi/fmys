@@ -1,7 +1,7 @@
 
 {
 
-"warningText":"接口免费，切勿付费",
+"warningText":"蜜糖软件提醒：接口免费，切勿付费",
 
 "sites":[
 
@@ -29,55 +29,59 @@
 
 {"key":"量子","name":"🍎备份源八","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 
-{"key":"csp_Cokemv","name":"📕可乐直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"csp_Cokemv","name":"📕可乐直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4180/ar/fan.jar"},
 
-{"key":"csp_Auete","name":"🏝奥特直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"csp_Auete","name":"🏝奥特直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xzam.cn/raw/main/jar/fan.jar"},
 
-{"key":"csp_fantuan","name":"🍙饭团直连","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"csp_fantuan","name":"🍙饭团直连","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4180/jar/fan.jar"},
 
-{"key":"csp_Dy1010","name":"❤️双十直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"猫猫","name":"🐼猫猫┃蓝光","type":3,"api":"csp_XBPQ","playerType":1,"ext":"https://download.kstore.space/download/4180/XBPQ/猫猫.json"},
+
+
+
+{"key":"csp_Dy1010","name":"❤️双十直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4180/jar/fan.jar"},
 
 {"key": "一龙","name": "👒一龙BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/L看.json"},
 
 {"key": "看看","name": "👀看看BPQ","type": 3,"playerType": "1","changeable": 0,"api": "csp_XBPQ","ext": {"主页url": "https://kankanju.cc","请求头": "Cookie$filter_robot_dd=301","副标题": "pic-text text-right\">&&</b>","嗅探词": ".m3u8#.mp4#tos#video_mp4","搜索模式": "1","搜索url": "https://kankanju.cc/type/id-.html?wd={wd}","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "introduction-content\">&&</span>","线路数组": "data-toggle=&&</li>","跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},
 
-{"key":"来米","name":"🍿来米┃影视","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/来米影视.js"},
+{"key":"来米","name":"🍿来米┃影视","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/来米影视.js"},
 
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"http://xzam.cn/XYQH/电影港.json","jar":"http://xzam.cn/jar/xyq.jar"},
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"https://download.kstore.space/download/4180/XYQH/电影港.json","jar":"https://download.kstore.space/download/4180/jar/xyq.jar"},
 
-{"key":"城市电影","name":"🏙️城市┃电影","type":3,"api":"csp_XBPQ","ext":"http://xzam.cn/XBPQ/城市电影.json"},
+{"key":"城市电影","name":"🏙️城市┃电影","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/城市电影.json"},
 
 {"key": "蚂蚁","name": "🐜蚂蚁BPQ","type": 3,"jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340","api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/蚂蚁.json"},
 
-{"key":"csp_YQKAPP","name":"🎉一起App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"https://gitee.com/xhkw/kuwan/raw/main/jar/fan.jar"},
+{"key":"YQK","name":"⛲一起┃APP","api":"csp_YQKAPP","type":3,"fplayerType":2,"ext":"https://hk-api-cf.yqk5659.com"},
 
-{"key":"胖虎","name":"🍑胖虎┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xzam.cn/XBPQ/胖虎.json"},
+{"key":"胖虎","name":"🍑胖虎┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4180/XBPQ/胖虎.json"},
 
-{"key":"爱看","name":"🍑爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xzam.cn/XBPQ/爱看影院.json"},
+{"key":"爱看","name":"🍑爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4180/XBPQ/爱看影院.json"},
 
-{"key":"139","name":"🍑139┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xzam.cn/XBPQ/139.json"},
+{"key":"139","name":"🍑139┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4180/XBPQ/139.json"},
 
-{"key":"热播之家","name":"🌭热播┃之家","type":3,"api":"csp_XBPQ","ext":"http://xzam.cn/XBPQ/热播之家.json"},
+{"key":"热播之家","name":"🌭热播┃之家","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/热播之家.json"},
 
-{"key":"零度","name":"❄️零度┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"http://xzam.cn/XBPQ/零度.json"},
+{"key":"零度","name":"❄️零度┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"https://download.kstore.space/download/4180/XBPQ/零度.json"},
 
-{"key":"Freeok","name":"🏝️Free┃影视","type":3,"api":"csp_XBPQ","ext":"http://xzam.cn/XBPQ/freeok.json"},
+{"key":"Freeok","name":"🏝️Free┃影视","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/freeok.json"},
 
-{"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"http://xzam.cn/XBPQ/tvb.json"},
+{"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"https://download.kstore.space/download/4180/XBPQ/tvb.json"},
 
-{"key":"爱奇艺","name":"💜奇艺┃视频","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/iqy.js"},
+{"key":"爱奇艺","name":"💜奇艺┃视频","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/iqy.js"},
 
-{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/youku.js"},
+{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/youku.js"},
 
-{"key":"360","name":"🐶搜狗┃视频","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/360.js"},
+{"key":"360","name":"🐶搜狗┃视频","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/360.js"},
 
-{"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/mangguo.js"},
+{"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/mangguo.js"},
 
-{"key":"动漫巴士","name":"🚕动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xzam.cn/XBPQ/巴士.json"},
+{"key":"动漫巴士","name":"🚕动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4180/XBPQ/巴士.json"},
 
-{"key":"维奇","name":"💠维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xzam.cn/XBPQ/维奇.json"},
+{"key":"维奇","name":"💠维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4180/XBPQ/维奇.json"},
 
-{"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"http://xzam.cn/lib/drpy2.min.js","ext":"http://xzam.cn/js/路漫漫.js"},
+{"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"https://download.kstore.space/download/4180/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4180/js/路漫漫.js"},
 
 {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
